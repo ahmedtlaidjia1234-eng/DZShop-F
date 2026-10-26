@@ -1,5 +1,5 @@
-const API_BASE = 'http://localhost:5000/api';
-export const SERVER_BASE = 'http://localhost:5000';
+const API_BASE = 'https://dzshop-api-utt5.onrender.com/api';
+export const SERVER_BASE = 'https://dzshop-api-utt5.onrender.com';
 
 // Helper for making secure requests
 async function request(endpoint, options = {}) {
